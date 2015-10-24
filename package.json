@@ -1,0 +1,12 @@
+{
+    "name": "itbaby.brackets-expand-selection-to-quotes",
+    "title": "brackets-expand-selection-to-quotes",
+    "description": "expand selection to quotes.",
+    "homepage": "https://github.com/itbaby/brackets-expand-selection-to-quotes",
+    "version": "1.0.0",
+    "author": "Robin.li jquery@hotmail.com",
+    "license": "GPL-3.0",
+    "engines": {
+        "brackets": "<=3.0"
+    }
+}
