@@ -2,7 +2,7 @@ define(function(require,exports,module){
    var AppInit = brackets.gtModule('utils/AppInit'),
        KeyBindingManager = brackets.getModule('command/KeyBindingManager'),
        CommandManager = brackets.getModule('command/CommandManager'),
-       EditorManager = brackets.getModule('command/EditorManager');
+       EditorManager = brackets.getModule('editor/EditorManager');
     var EXPAND_SELECTION_TO_QUOTES = 'Expand selection to quotes',
         CMD_SELECT_TO_QUOTES = 'quotes.select';
     function selectBetweenQutoes(){
