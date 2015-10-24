@@ -1,5 +1,6 @@
 define(function(require,exports,module){
-   var AppInit = brackets.gtModule('utils/AppInit'),
+
+   var AppInit = brackets.getModule('utils/AppInit'),
        KeyBindingManager = brackets.getModule('command/KeyBindingManager'),
        CommandManager = brackets.getModule('command/CommandManager'),
        EditorManager = brackets.getModule('editor/EditorManager');
