@@ -4,7 +4,7 @@
     "description": "expand selection to quotes.",
     "homepage": "https://github.com/itbaby/brackets-expand-selection-to-quotes",
     "version": "1.0.0",
-    "author": "Robin.li jquery@hotmail.com",
+    "author": "Robin.li",
     "license": "GPL-3.0",
     "engines": {
         "brackets": "<=3.0"
