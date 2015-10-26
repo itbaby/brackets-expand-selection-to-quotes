@@ -33,5 +33,5 @@ define(function(require,exports,module){
         CMD_SELECT_TO_QUOTES,
         selectBetweenQutoes
     );
-    KeyBindingManager.addBinding(CMD_SELECT_TO_QUOTES,"Ctrl-'",'mac');
+    KeyBindingManager.addBinding(CMD_SELECT_TO_QUOTES,"Ctrl-'");
 });
